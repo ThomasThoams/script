@@ -1,5 +1,6 @@
+#backend/Dockerfile
 # Utiliser une image officielle de Node.js comme environnement de base
-FROM node:14
+FROM node:16
 
 # Définir le répertoire de travail dans le conteneur
 WORKDIR /usr/src/app

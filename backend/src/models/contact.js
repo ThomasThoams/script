@@ -1,3 +1,4 @@
+//backend/src/models/contact.js
 const mongoose = require('mongoose');
 
 const contactSchema = new mongoose.Schema({
